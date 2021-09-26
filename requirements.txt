@@ -1,5 +1,5 @@
 urllib3
 requests
-sys
-time
 colorama
+bs4
+lxml
